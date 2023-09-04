@@ -30,4 +30,5 @@ Mock-up: This is an image or animation that demonstrates the design and function
 
 Submission: You'll submit your completed Challenge for review. In the real world, when a developer finishes working on a project, another developer reviews the code, providing feedback on errors and making sure that all of the acceptance criteria have been met. For each Challenge, your instructional staff will serve as your team of reviewers.
 
-![PortfolioTemplet](PortfolioTemplet.gif)
+![PortfolioTemplet](https://github.com/DaithiBrum/DaithiBrumPortfolio/assets/141175596/2e20c840-13ef-4132-b701-00142e8bb728)
+
