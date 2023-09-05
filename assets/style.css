@@ -1,0 +1,54 @@
+body {
+    font-family: 'Acme', sans-serif;
+}
+
+h1 {
+    position: left;
+    font-weight:  bold;
+    
+}
+
+header {
+
+    flex-direction: row;
+    background-color: rgb(21, 85, 21) ;
+}
+.DevelpersBioPic {
+   
+    background-color: rgb(21, 85, 21);
+    color: lightgreen
+    
+}
+
+.flexbox-container {
+
+    display: flex;
+    
+}
+
+.DevelopersPic_Avatar {
+    display: flexbox
+} 
+
+.DevelpersBioPic {
+    display:flex;
+        width: 200px;
+        height: 200px;
+        border-radius: 25px;
+        border-style:inset;
+        border-color:rgb(174, 228, 206);
+        border-width: 5px;
+        box-shadow: 5px 5px 2.5px gray;
+}
+footer {
+    display: flexbox;
+    background: rgb(21, 85, 21);
+    height: auto;
+    color: lightgreen;
+    padding: 20px;
+    border-top-style:groove;
+    border-color:lightgreen;
+    border-width: 10px;
+    font-family: 'Acme', sans-serif;
+    text-align: center;
+    }
